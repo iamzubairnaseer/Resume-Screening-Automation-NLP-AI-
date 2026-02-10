@@ -45,30 +45,6 @@ The system uses a **hybrid NLP approach**:
 
 ---
 
-## 📂 Project Structure
-```
-resume-screening-automation/
-│
-├── data/
-│   ├── resumes/
-│   └── job_description.txt
-│
-├── src/
-│   ├── text_preprocessing.py
-│   ├── skill_extraction.py
-│   ├── experience_extraction.py
-│   ├── tfidf_matching.py
-│   └── bert_matching.py
-│
-├── results/
-│   └── ranked_candidates.csv
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🔍 Key Features
 - Automated resume parsing
 - Skill-based and semantic matching
